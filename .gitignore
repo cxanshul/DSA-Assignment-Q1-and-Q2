@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*~
